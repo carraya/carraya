@@ -1,4 +1,10 @@
-### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=dark)
+### Hey everyone! Im Chris, a junior at TJHSST. 
+I am currently studying AI and Computer Vision, as well as learning web development on my free time. I work for Glyfi as head web developer and Codefy as the director of the Advanced Python course.
+### 🔭 I’m currently working on ...
+- Glyphi Website
+- My Portfolio
+- Twitter Clone using Django
+### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=tokyonight)
 <!--
 **carraya/carraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
