@@ -1,5 +1,4 @@
-### Hi there 👋
-### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=radical)
+### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=dark)
 <!--
 **carraya/carraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
