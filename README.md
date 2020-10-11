@@ -1,4 +1,4 @@
-### Hey everyone! Im Christopher, a junior at TJHSST. 
+### Hey everyone! I'm Christopher, a junior at TJHSST. 
 I am currently studying AI and Computer Vision, as well as learning web development on my free time. I work for Glyfi as head web developer and Codefy as the director of the Advanced Python course.
 ### 🔭 I’m currently working on ...
 - Glyfi Website
