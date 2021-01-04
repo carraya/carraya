@@ -3,7 +3,7 @@ I am currently studying AI and Computer Vision, as well as learning web developm
 ### 🔭 I’m currently working on ...
 - Glyfi Website
 - My Portfolio
-- Twitter Clone using Django
+- Research Project
 ### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=tokyonight)
 <!--
 **carraya/carraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
