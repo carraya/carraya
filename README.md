@@ -1,9 +1,9 @@
 ### Hey everyone! I'm Christopher, a junior at TJHSST. 
 I am currently studying AI and Computer Vision, as well as learning web development on my free time. I work for Glyfi as head web developer and Codefy as the director of the Advanced Python course.
 ### 🔭 I’m currently working on ...
-- Glyfi Website
+- Research Project (Generating Auto-Luminance Thresholds to Increase the Accuracy of DCT Around the Edges of Objects in a JPEG Image)
+- Freelanced Websites for clients! Contact me at arrayacj@gmail.com for consultation. :)
 - My Portfolio
-- Research Project
 ### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=tokyonight)
 <!--
 **carraya/carraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
