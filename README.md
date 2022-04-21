@@ -1,8 +1,8 @@
-### Hey everyone! I'm Christopher, a junior at TJHSST. 
-I am currently studying AI and Computer Vision, as well as learning web development on my free time. I work for Glyfi as head web developer and Codefy as the director of the Advanced Python course.
+### Hey everyone! I'm Christopher, an incoming freshman at UNC-Chapel Hill.
+I am currently learning about Docker and Kubernetes, as well as teaching myself about different machine learning models. I am currently working as a freelancer, as well as conducting personal research.
 ### 🔭 I’m currently working on ...
-- Research Project (Generating Auto-Luminance Thresholds to Increase the Accuracy of DCT Around the Edges of Objects in a JPEG Image)
-- Freelanced Websites for clients! Contact me at arrayacj@gmail.com for consultation. :)
+- Research Project (Road to Mastery: An Implementation of Bayesian Knowledge Tracing to Track Student Subject Mastery on an Interactive Website)
+- Freelanced Websites for clients! Contact me at arraya.christopher@gmail.com for consultation. :)
 - My Portfolio
 ### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=tokyonight)
 <!--
