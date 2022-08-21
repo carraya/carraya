@@ -1,5 +1,5 @@
 ### Hey everyone! I'm Christopher, a freshman at UNC-Chapel Hill.
-I am currently learning about Docker and Kubernetes, as well as teaching myself about different machine learning models. I am currently working as an NLP assistant at the UNC Department of Sociology, a freelancer, as well as conducting personal research.
+I am currently learning about Docker and Kubernetes, as well as teaching myself about different machine learning models. I am currently working as an NLP research assistant at the UNC Department of Sociology, a freelancer, as well as conducting personal research.
 ### 🔭 I’m currently working on ...
 - Research Project (Road to Mastery: An Implementation of Bayesian Knowledge Tracing to Track Student Subject Mastery on an Interactive Website)
 - Freelanced Websites for clients! Contact me at arraya.christopher@gmail.com for consultation. :)
