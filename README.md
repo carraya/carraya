@@ -1,9 +1,10 @@
-### Hey everyone! I'm Christopher, a freshman at UNC-Chapel Hill.
-I am currently learning about Docker and Kubernetes, as well as teaching myself about different machine learning models. I work as an NLP research assistant at the UNC Department of Sociology.
-### 🔭 Research I'm working on ...
-- The Rural Bolivian Education Crisis: An Analysis of School Desertion in Rural Bolivia
-- Analysis of the Changing Sentiment of Tweets on the 2019 Bolivian Political Crisis
-- Improving Discrete Cosine Transform Accuracy: The Effect of Auto-Luminance Thresholds on JPEG Image Compression
+### Hey everyone! I'm Christopher, a sophomore at UNC-Chapel Hill.
+I'm currently learning about Hierarchical Navigable Small World (HNSW) models.
+### 🔭 Projects I'm working on ...
+- Skalara: Automated project management for tech teams and indie developers.
+- Breadsheet: Streamlined application review powered by AI.
+- Landing Page Generator: AI-generated unique landing pages fitted with a waitlist and automatic deployment on Vercel.
+- Mapping Facebook Discourse during the 2019 Bolivian Political Crisis
 ### ![Christopher's Github Stats](https://github-readme-stats.vercel.app/api?username=carraya&show_icons=true&theme=tokyonight)
 <!--
 **carraya/carraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
